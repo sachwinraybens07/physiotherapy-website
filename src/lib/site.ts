@@ -5,7 +5,7 @@ export const siteConfig = {
   phone: "+91 7010046605",
   phoneHref: "tel:+917010046605",
   whatsapp: "919626049604",
-  email: "sachwinrsybens07@gmail.com",
+  email: "sachwinraybens07@gmail.com",
   address: "1097E, 9th Street Extension, Dr Radhakrishnan Road, Gandhipuram, Coimbatore - 641012",
   mapsQuery:
     "https://www.google.com/maps?q=1097E+9th+Street+Extension+Dr+Radhakrishnan+Road+Gandhipuram+Coimbatore+641012&output=embed",
